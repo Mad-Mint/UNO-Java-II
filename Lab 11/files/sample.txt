@@ -1,0 +1,10 @@
+Last name            First name           Score                Grade                
+Aguilar              John                 97.0                 A                   
+Alcocer              Sereda               59.0                 F                   
+Alvarado             Daniel               -89.3                X                   
+Boxwell              Nicholas             89.9                 B                   
+Do                   Minh                 120.0                X                   
+Doemland             Maxwell              70.6                 C                   
+Ferguson             John                 49.0                 F                   
+Gabbert              Daniel               62.5                 D                   
+Hanks                David                100.0                A                   

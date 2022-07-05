@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Shayne Mintling">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shayne_Mintling</output-path>
+    <root id="archive" name="Shayne Mintling.jar" />
+  </artifact>
+</component>
